@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+*** ต้องมี private key ของ firebase ถึงจะทำงานได้ถูกต้อง ***
+*** ใช้คำสั่ง npm run start:dev เพื่อ start server ***
+*** ใช้คำสั่ง npm run dev เพื่อ start ปกติ
 ## Getting Started
 
 First, run the development server:
